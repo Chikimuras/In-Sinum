@@ -13,7 +13,7 @@ Ce projet est un projet personnel. Il a vocation à devenir un Saas. Il est dév
 
 ## Palette de couleurs
 
-- ![#f03c15](https://via.placeholder.com/20/05445E/fff) `#05445E`
-- ![#c5f015](https://via.placeholder.com/20/189AB4/fff) `#189AB4`
-- ![#1589F0](https://via.placeholder.com/20/75E6DA/fff) `#75E6DA`
-- ![#1589F0](https://via.placeholder.com/20/D4F1F4/fff) `#D4F1F4`
+- ![#f03c15](https://placehold.co/15x15/05445E/05445E.png) `#05445E`
+- ![#c5f015](https://placehold.co/15x15/189AB4/189AB4.png) `#189AB4`
+- ![#1589F0](https://placehold.co/15x15/75E6DA/75E6DA.png) `#75E6DA`
+- ![#1589F0](https://placehold.co/15x15/D4F1F4/D4F1F4.png) `#D4F1F4`
