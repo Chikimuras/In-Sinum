@@ -13,7 +13,17 @@ module.exports = {
         extend: {
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
+                serif: ['Merriweather', ...defaultTheme.fontFamily.serif],
+                mono: ['Menlo', ...defaultTheme.fontFamily.mono],
             },
+            colors:{
+                'insinum': {
+                    'light': '#D4F1F4',
+                    DEFAULT: '#75E6DA',
+                    'dark': '#189AB4',
+                    'darker': '#05445E',
+                }
+            }
         },
     },
 

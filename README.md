@@ -1,4 +1,4 @@
-# Insinum, the brand new app for personal finance management
+# Insinum, une application de gestion de vos comptes et économies
 
 ## Quelques mots sur l'application
 
